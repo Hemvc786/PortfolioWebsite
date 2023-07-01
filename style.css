@@ -10,7 +10,7 @@ html {
 
 body {
   background: #080808;
-  color: #crimson;
+  color: #fff;
 }
 
 #header {
@@ -90,7 +90,7 @@ nav ul li a:hover::after {
 }
 .texxxt12 {
   font-size: 30px;
-  color: #fff;
+  color: crimson;
 }
 .texxxt123 {
   font-size: 25px;
